@@ -1,0 +1,19 @@
+{
+    "name": "Dual-MakerBit-LCD1602",
+    "version": "2.0.0",
+    "description": "MakerBit-based extension for two independently controlled I2C LCD1602 displays.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "lcd-core.ts",
+        "lcd1602.ts"
+    ],
+    "testFiles": [],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
